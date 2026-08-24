@@ -2,73 +2,58 @@
 
 ### Software Developer | Full Stack Developer | CSE (AI & ML) Graduate
 
-Motivated Computer Science graduate with hands-on experience in **Python, Java, JavaScript, React, Node.js, Express.js, Spring Boot, SQL, MongoDB, HTML, and CSS**. I enjoy building practical applications, solving problems, and continuously improving my software development skills.
+I’m a Computer Science graduate interested in building **responsive web applications and practical software solutions**. I’m developing my skills across frontend, backend, databases, and AI/ML.
 
 ## 👨‍💻 About Me
 
 - 🎓 B.E. in Computer Science & Engineering (AI & ML), 2021–2025
 - 💼 Python Web Developer Intern at Data Info Solutions
 - 🌐 Frontend: HTML, CSS, JavaScript, React
-- ⚙️ Backend: Node.js, Express.js, Java, Spring Boot, REST API
+- ⚙️ Backend: Node.js, Express.js, Java, Spring Boot, REST APIs
 - 🗄️ Databases: MySQL, SQL, MongoDB
-- 🐍 Programming: Python, Core Java, JavaScript
-- 🤖 Foundational knowledge of AI & ML
+- 🐍 Programming: Python, Java, JavaScript
+- 🤖 AI & ML fundamentals
 - 🔧 Git & GitHub
-- 📊 MS Excel and data handling
-- 🤝 Strong communication, teamwork, adaptability and problem-solving skills
-- 🎯 Seeking an entry-level Software Developer / Full Stack Developer opportunity
+- 🎯 Open to entry-level Software Developer / Full Stack Developer opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| Area | Skills |
-| --- | --- |
-| Programming | Python, Core Java, JavaScript |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Node.js, Express.js, Java, Spring Boot, REST API |
-| Databases | SQL, MySQL, MongoDB |
-| AI / ML | Artificial Intelligence & Machine Learning fundamentals |
-| Tools | Git, GitHub, MS Excel, MS Word, MS PowerPoint |
-| Concepts | Object-Oriented Programming, Web Application Development, Debugging, Data Handling |
+### Frontend
+`HTML5` `CSS3` `JavaScript` `React`
 
----
+### Backend
+`Node.js` `Express.js` `Java` `Spring Boot` `REST API`
 
-## 🚀 Featured Projects
+### Database
+`MySQL` `SQL` `MongoDB`
 
-### 📚 Student Result Management System
-**Python • MySQL • HTML/CSS**
+### Programming
+`Python` `Java` `JavaScript`
 
-A web-based application designed to record, calculate, and publish student results while reducing manual processing effort.
-
-**Highlights:**
-- Developed backend logic using Python
-- Integrated MySQL for structured data handling
-- Built a web interface using HTML/CSS
-
-### 🤖 AI-Based Chatbot Application
-**Java • Spring Boot • REST API**
-
-A chatbot application designed to automate responses to common user queries and improve response turnaround for end users.
-
-**Highlights:**
-- Applied Core Java and object-oriented programming principles
-- Used Spring Boot and REST APIs
-- Focused on modular and maintainable application design
-
-### 🏫 College Admissions
-
-A web-based project available in my GitHub repositories. More project documentation and implementation details will be added as the repository is developed further.
+### Tools & Concepts
+`Git` `GitHub` `OOP` `Agile` `MS Excel` `AI/ML`
 
 ---
 
-## 💼 Internship Experience
+## 🚀 Featured Project
+
+### 🎓 College Admissions Portal
+
+A responsive front-end college admissions portal built with **HTML, CSS, and JavaScript**, featuring a dashboard-style interface, application management UI, college information cards, forms, search, status badges, modals, notifications, and responsive styling.
+
+🔗 **[View Project →](https://github.com/faisalshaik78/college-admissions)**
+
+> Future development: Node.js + Express.js backend, MongoDB database, authentication, REST APIs, and deployment.
+
+---
+
+## 💼 Internship
 
 **Python Web Developer Intern — Data Info Solutions**
 
-- Worked on Python-based development tasks to design, test and debug applications
-- Gained practical exposure to web development workflows and version control
-- Collaborated with senior developers to deliver functional modules within project timelines
+Gained practical exposure to Python-based development, application testing/debugging, web development workflows, and version control.
 
 ---
 
@@ -87,7 +72,7 @@ Ehashila High School | **2019**
 
 ## 🎯 Career Goal
 
-I’m looking for an opportunity where I can contribute to real-world software projects, learn from experienced developers, and grow into a strong **Full Stack Software Engineer**.
+I’m looking for an opportunity to contribute to real-world software projects, learn from experienced developers, and grow into a strong **Full Stack Software Engineer**.
 
 ---
 
@@ -98,4 +83,4 @@ I’m looking for an opportunity where I can contribute to real-world software p
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
+⭐ **Thanks for visiting my profile!**
