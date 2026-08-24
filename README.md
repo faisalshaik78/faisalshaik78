@@ -1,20 +1,22 @@
 # Hi, I'm SHAIK FAISAL 👋
 
-### Software Developer | CSE (AI & ML) Graduate
+### Software Developer | Full Stack Developer | CSE (AI & ML) Graduate
 
-Motivated Computer Science graduate with hands-on experience in **Python, Java, Spring Boot, HTML/CSS, SQL, and data handling**. I enjoy building practical applications, solving problems, and continuously improving my software development skills.
+Motivated Computer Science graduate with hands-on experience in **Python, Java, JavaScript, React, Node.js, Express.js, Spring Boot, SQL, MongoDB, HTML, and CSS**. I enjoy building practical applications, solving problems, and continuously improving my software development skills.
 
 ## 👨‍💻 About Me
 
 - 🎓 B.E. in Computer Science & Engineering (AI & ML), 2021–2025
 - 💼 Python Web Developer Intern at Data Info Solutions
-- 🐍 Python | Core Java | Spring Boot
-- 🌐 HTML | CSS | REST API
-- 🗄️ SQL & MySQL
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Node.js, Express.js, Java, Spring Boot, REST API
+- 🗄️ Databases: MySQL, SQL, MongoDB
+- 🐍 Programming: Python, Core Java, JavaScript
 - 🤖 Foundational knowledge of AI & ML
+- 🔧 Git & GitHub
 - 📊 MS Excel and data handling
 - 🤝 Strong communication, teamwork, adaptability and problem-solving skills
-- 🎯 Seeking an entry-level Software Developer / Graduate Trainee opportunity
+- 🎯 Seeking an entry-level Software Developer / Full Stack Developer opportunity
 
 ---
 
@@ -22,13 +24,13 @@ Motivated Computer Science graduate with hands-on experience in **Python, Java, 
 
 | Area | Skills |
 | --- | --- |
-| Programming | Python, Core Java |
-| Backend | Java Spring Boot, REST API |
-| Web | HTML, CSS |
-| Database | SQL, MySQL |
-| AI / ML | Foundational AI & ML concepts |
-| Tools | Git, MS Excel, MS Word, MS PowerPoint |
-| Practices | Version control, Agile / professional software practices |
+| Programming | Python, Core Java, JavaScript |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express.js, Java, Spring Boot, REST API |
+| Databases | SQL, MySQL, MongoDB |
+| AI / ML | Artificial Intelligence & Machine Learning fundamentals |
+| Tools | Git, GitHub, MS Excel, MS Word, MS PowerPoint |
+| Concepts | Object-Oriented Programming, Web Application Development, Debugging, Data Handling |
 
 ---
 
@@ -85,7 +87,7 @@ Ehashila High School | **2019**
 
 ## 🎯 Career Goal
 
-I’m looking for an opportunity where I can contribute to real-world software projects, learn from experienced developers, and grow into a strong **Software / Full Stack Developer**.
+I’m looking for an opportunity where I can contribute to real-world software projects, learn from experienced developers, and grow into a strong **Full Stack Software Engineer**.
 
 ---
 
