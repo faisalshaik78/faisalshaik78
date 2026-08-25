@@ -1,73 +1,85 @@
-# 👋 Hi, I'm SHAIK FAISAL
+<div align="center">
 
-### 💻 Software Developer | Full Stack Developer | CSE (AI & ML)
+# 👋 Hi, I'm **SHAIK FAISAL**
 
-I’m a Computer Science graduate interested in building **clean, responsive and practical web applications**. I’m currently focused on strengthening my full-stack development skills and building projects that solve real-world problems.
+### 💻 Software Developer | Frontend Developer | MERN Full Stack Developer
+
+**CSE (AI & ML) Graduate • Building responsive, practical web applications**
 
 <p>
-  <a href="https://github.com/faisalshaik78"><img src="https://img.shields.io/badge/GitHub-faisalshaik78-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/shaik-faisal-0176b9228"><img src="https://img.shields.io/badge/LinkedIn-Shaik%20Faisal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/faisalshaik78">GitHub</a> •
+  <a href="https://linkedin.com/in/shaik-faisal-0176b9228">LinkedIn</a>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 **B.E. Computer Science & Engineering (AI & ML)** — 2021–2025
-- 💼 Python Web Developer Intern at **Data Info Solutions**
-- 🌐 Frontend: **HTML, CSS, JavaScript, React.js**
-- ⚙️ Backend: **Node.js, Express.js, Java, Spring Boot, REST APIs**
-- 🗄️ Databases: **MongoDB, MySQL, SQL**
-- 🤖 Foundational knowledge of **AI & ML**
-- 🔧 Git, GitHub & Postman
-- 🎯 Open to **Software Developer / Full Stack Developer** opportunities
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### Frontend
-`HTML5` `CSS3` `JavaScript ES6+` `React.js` `Bootstrap`
-
-### Backend
-`Node.js` `Express.js` `Java` `Spring Boot` `REST API`
-
-### Databases
-`MongoDB` `MySQL` `SQL`
-
-### Tools & Concepts
-`Git` `GitHub` `Postman` `OOP` `CRUD` `Authentication` `Routing` `Agile`
+- 🎓 B.E. in **Computer Science & Engineering (AI & ML)** — 2021–2025
+- 💼 **Python Web Developer Intern** at Data Info Solutions
+- 🚀 Focused on **Frontend & Full Stack Web Development**
+- 🌐 Building with **HTML, CSS, JavaScript and React.js**
+- ⚙️ Developing backend skills with **Node.js, Express.js, Java and Spring Boot**
+- 🗄️ Working with **MongoDB, MySQL and SQL**
+- 🤖 Interested in **AI/ML and real-world software applications**
+- 🔧 Git, GitHub and Postman
+- 🎯 Looking for **Software Developer / Full Stack Developer** opportunities
 
 ---
 
-## 🌟 Projects
+## ⚡ Tech Stack
 
-### 💰 Ledger — Personal Finance Tracker
+### 🎨 Frontend
 
-A full-stack-style personal finance tracker built with **React, Vite and Tailwind CSS**. The application focuses on organizing personal income and expenses with categorization, charts and persistent browser storage.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend technologies" />
+</p>
 
-**Tech:** `React` `Vite` `Tailwind CSS` `JavaScript` `localStorage`
+### ⚙️ Backend
 
-**Highlights:**
-- 💵 Income and expense tracking
-- 🏷️ Transaction categorization
-- 📊 Charts and financial summaries
-- 💾 localStorage persistence
-- 📱 Responsive user interface
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend technologies" />
+</p>
 
-> 📌 The project is listed in my resume; its source code is not currently available in my GitHub repositories.
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
+</p>
+
+**Also:** `Python` `SQL` `REST API` `OOP` `CRUD` `Authentication` `Routing` `Agile`
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎓 College Admissions — EduAdmit
 
-A responsive college-admissions portal built as a frontend web application using **HTML, CSS and JavaScript**.
+A responsive college-admissions portal built with **HTML, CSS and JavaScript**, featuring a dashboard-style interface, application workflows, forms, college cards, search, status badges, modals and notifications.
 
-**Highlights:** Dashboard interface, application workflows, forms, validation, college cards, search, status badges, modals and notifications.
+**Tech:** `HTML` `CSS` `JavaScript`
 
-👉 **[View Project →](https://github.com/faisalshaik78/college-admissions)**
+👉 **[View Repository](https://github.com/faisalshaik78/college-admissions)**
+
+### 💰 Ledger — Personal Finance Tracker
+
+A personal finance tracker designed to organize income and expenses with categorization, charts and browser-based persistence.
+
+**Tech:** `React` `Vite` `Tailwind CSS` `JavaScript` `localStorage`
+
+> 📌 Resume-listed project; source code is not currently available in my GitHub repositories.
 
 ### 📚 Student Result Management System
 
-A web-based application designed to record, calculate and publish student results while reducing manual processing effort.
+A web application designed to record, calculate and publish student results while reducing manual processing.
 
 **Tech:** `Python` `MySQL` `HTML` `CSS`
 
@@ -75,7 +87,7 @@ A web-based application designed to record, calculate and publish student result
 
 ### 🤖 AI-Based Chatbot Application
 
-A chatbot application designed to automate responses to common user queries and improve response turnaround.
+A chatbot application designed to automate responses to common user queries.
 
 **Tech:** `Java` `Spring Boot` `REST API`
 
@@ -83,23 +95,24 @@ A chatbot application designed to automate responses to common user queries and 
 
 ---
 
-## 📜 Training
+## 📚 MERN Full Stack Training
 
-### MERN Full Stack Development — Full Stack Academy
-**March 2026 – August 2026**
+### Full Stack Academy · March 2026 – August 2026
 
-Completed a 6-month intensive MERN training program covering **MongoDB, Express.js, React.js and Node.js**, including RESTful APIs, CRUD operations, authentication, routing, database integration, responsive design, Git/GitHub and API testing with Postman.
+Completed intensive training in:
+
+`MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `CRUD` `Authentication` `Routing` `Git/GitHub` `Postman`
 
 ---
 
 ## 💼 Experience
 
-**Python Web Developer Intern — Data Info Solutions**
+### Python Web Developer Intern — Data Info Solutions
 
-- Worked on Python-based development tasks in a real-world environment
+- Worked on Python-based development tasks
 - Designed, tested and debugged applications
 - Gained practical exposure to web-development workflows and version control
-- Collaborated with senior developers to deliver functional modules within project timelines
+- Collaborated with developers to deliver functional modules
 
 ---
 
@@ -110,19 +123,31 @@ Lords Institute of Engineering & Technology, Hyderabad · **2021–2025**
 
 ---
 
-## 🎯 Career Objective
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=faisalshaik78&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalshaik78&layout=compact&hide_border=true" height="165" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎯 Career Goal
+
+> **Build. Learn. Improve. Repeat.**
 
 I’m looking for an opportunity to contribute to real-world software projects, learn from experienced developers, and grow into a strong **Full Stack Software Engineer**.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-💼 **LinkedIn:** [Shaik Faisal](https://linkedin.com/in/shaik-faisal-0176b9228)  
-🐙 **GitHub:** [@faisalshaik78](https://github.com/faisalshaik78)
+<div align="center">
 
----
+**💼 [LinkedIn](https://linkedin.com/in/shaik-faisal-0176b9228) · 🐙 [GitHub](https://github.com/faisalshaik78)**
 
-⭐ **Thanks for visiting my profile!**
+⭐ *Thanks for visiting my profile!*
 
-*Always learning. Always building. Always improving.* 🚀
+</div>
