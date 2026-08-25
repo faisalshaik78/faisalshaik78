@@ -6,7 +6,7 @@ I’m a Computer Science graduate interested in building **clean, responsive and
 
 <p>
   <a href="https://github.com/faisalshaik78"><img src="https://img.shields.io/badge/GitHub-faisalshaik78-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/shaikfaisal"><img src="https://img.shields.io/badge/LinkedIn-Shaik%20Faisal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/shaik-faisal-0176b9228"><img src="https://img.shields.io/badge/LinkedIn-Shaik%20Faisal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -15,11 +15,11 @@ I’m a Computer Science graduate interested in building **clean, responsive and
 
 - 🎓 **B.E. Computer Science & Engineering (AI & ML)** — 2021–2025
 - 💼 Python Web Developer Intern at **Data Info Solutions**
-- 🌐 Frontend: **HTML, CSS, JavaScript, React**
+- 🌐 Frontend: **HTML, CSS, JavaScript, React.js**
 - ⚙️ Backend: **Node.js, Express.js, Java, Spring Boot, REST APIs**
-- 🗄️ Databases: **SQL, MySQL, MongoDB**
-- 🤖 Interested in **AI/ML and practical software applications**
-- 🔧 Using **Git and GitHub** for version control
+- 🗄️ Databases: **MongoDB, MySQL, SQL**
+- 🤖 Foundational knowledge of **AI & ML**
+- 🔧 Git, GitHub & Postman
 - 🎯 Open to **Software Developer / Full Stack Developer** opportunities
 
 ---
@@ -27,56 +27,68 @@ I’m a Computer Science graduate interested in building **clean, responsive and
 ## 🛠️ Tech Stack
 
 ### Frontend
-`HTML5` `CSS3` `JavaScript` `React`
+`HTML5` `CSS3` `JavaScript ES6+` `React.js` `Bootstrap`
 
 ### Backend
 `Node.js` `Express.js` `Java` `Spring Boot` `REST API`
 
 ### Databases
-`SQL` `MySQL` `MongoDB`
+`MongoDB` `MySQL` `SQL`
 
-### Programming & Tools
-`Python` `Java` `Git` `GitHub` `OOP` `Agile` `AI/ML`
+### Tools & Concepts
+`Git` `GitHub` `Postman` `OOP` `CRUD` `Authentication` `Routing` `Agile`
 
 ---
 
 ## 🌟 Projects
 
+### 💰 Ledger — Personal Finance Tracker
+
+A full-stack-style personal finance tracker built with **React, Vite and Tailwind CSS**. The application focuses on organizing personal income and expenses with categorization, charts and persistent browser storage.
+
+**Tech:** `React` `Vite` `Tailwind CSS` `JavaScript` `localStorage`
+
+**Highlights:**
+- 💵 Income and expense tracking
+- 🏷️ Transaction categorization
+- 📊 Charts and financial summaries
+- 💾 localStorage persistence
+- 📱 Responsive user interface
+
+> 📌 The project is listed in my resume; its source code is not currently available in my GitHub repositories.
+
 ### 🎓 College Admissions — EduAdmit
 
-A responsive college-admissions portal built as a frontend web application. It demonstrates practical **HTML, CSS and JavaScript** skills through a dashboard-style interface, application management UI, forms, college cards, search, status badges, modals and notifications.
+A responsive college-admissions portal built as a frontend web application using **HTML, CSS and JavaScript**.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Highlights:** Dashboard interface, application workflows, forms, validation, college cards, search, status badges, modals and notifications.
 
 👉 **[View Project →](https://github.com/faisalshaik78/college-admissions)**
 
 ### 📚 Student Result Management System
 
-A web-based application designed to record, calculate and publish student results while reducing manual result-processing work.
+A web-based application designed to record, calculate and publish student results while reducing manual processing effort.
 
-**Technologies listed:** `Python` `MySQL` `HTML` `CSS`
+**Tech:** `Python` `MySQL` `HTML` `CSS`
 
-**Highlights:** Backend logic, structured database handling and a web interface for student-result management.
-
-> 📌 The project is listed here based on my resume. The source code is not currently available in my GitHub repositories.
+> 📌 Resume-listed project; source code is not currently available in my GitHub repositories.
 
 ### 🤖 AI-Based Chatbot Application
 
-A chatbot application designed to automate responses to common user queries and improve response turnaround for end users.
+A chatbot application designed to automate responses to common user queries and improve response turnaround.
 
-**Technologies listed:** `Java` `Spring Boot` `REST API`
+**Tech:** `Java` `Spring Boot` `REST API`
 
-**Highlights:** Object-oriented programming, Spring Boot backend development and REST API usage.
-
-> 📌 The project is listed here based on my resume. The source code is not currently available in my GitHub repositories.
+> 📌 Resume-listed project; source code is not currently available in my GitHub repositories.
 
 ---
 
-## 🔭 Full-Stack Roadmap
+## 📜 Training
 
-My next development focus is to extend frontend projects with:
+### MERN Full Stack Development — Full Stack Academy
+**March 2026 – August 2026**
 
-`React` → `Node.js` → `Express.js` → `MongoDB` → `REST API`
+Completed a 6-month intensive MERN training program covering **MongoDB, Express.js, React.js and Node.js**, including RESTful APIs, CRUD operations, authentication, routing, database integration, responsive design, Git/GitHub and API testing with Postman.
 
 ---
 
@@ -84,7 +96,10 @@ My next development focus is to extend frontend projects with:
 
 **Python Web Developer Intern — Data Info Solutions**
 
-Gained practical exposure to Python-based development, application testing/debugging, web-development workflows and version control.
+- Worked on Python-based development tasks in a real-world environment
+- Designed, tested and debugged applications
+- Gained practical exposure to web-development workflows and version control
+- Collaborated with senior developers to deliver functional modules within project timelines
 
 ---
 
@@ -103,7 +118,7 @@ I’m looking for an opportunity to contribute to real-world software projects, 
 
 ## 📫 Let's Connect
 
-💼 **LinkedIn:** [Shaik Faisal](https://linkedin.com/in/shaikfaisal)  
+💼 **LinkedIn:** [Shaik Faisal](https://linkedin.com/in/shaik-faisal-0176b9228)  
 🐙 **GitHub:** [@faisalshaik78](https://github.com/faisalshaik78)
 
 ---
