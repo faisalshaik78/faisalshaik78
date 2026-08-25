@@ -1,20 +1,26 @@
-# Hi, I'm SHAIK FAISAL 👋
+# 👋 Hi, I'm SHAIK FAISAL
 
-### Software Developer | Full Stack Developer | CSE (AI & ML) Graduate
+### 💻 Software Developer | Full Stack Developer | CSE (AI & ML)
 
-I’m a Computer Science graduate interested in building **responsive web applications and practical software solutions**. I’m developing my skills across frontend, backend, databases, and AI/ML.
+I’m a Computer Science graduate interested in building **clean, responsive and practical web applications**. I’m currently focused on strengthening my full-stack development skills and building projects that solve real-world problems.
 
-## 👨‍💻 About Me
+<p>
+  <a href="https://github.com/faisalshaik78"><img src="https://img.shields.io/badge/GitHub-faisalshaik78-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/shaikfaisal"><img src="https://img.shields.io/badge/LinkedIn-Shaik%20Faisal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-- 🎓 B.E. in Computer Science & Engineering (AI & ML), 2021–2025
-- 💼 Python Web Developer Intern at Data Info Solutions
-- 🌐 Frontend: HTML, CSS, JavaScript, React
-- ⚙️ Backend: Node.js, Express.js, Java, Spring Boot, REST APIs
-- 🗄️ Databases: MySQL, SQL, MongoDB
-- 🐍 Programming: Python, Java, JavaScript
-- 🤖 AI & ML fundamentals
-- 🔧 Git & GitHub
-- 🎯 Open to entry-level Software Developer / Full Stack Developer opportunities
+---
+
+## 🚀 About Me
+
+- 🎓 **B.E. Computer Science & Engineering (AI & ML)** — 2021–2025
+- 💼 Python Web Developer Intern at **Data Info Solutions**
+- 🌐 Frontend: **HTML, CSS, JavaScript, React**
+- ⚙️ Backend: **Node.js, Express.js, Java, Spring Boot, REST APIs**
+- 🗄️ Databases: **SQL, MySQL, MongoDB**
+- 🤖 Interested in **AI/ML and practical software applications**
+- 🔧 Using **Git and GitHub** for version control
+- 🎯 Open to **Software Developer / Full Stack Developer** opportunities
 
 ---
 
@@ -26,61 +32,60 @@ I’m a Computer Science graduate interested in building **responsive web applic
 ### Backend
 `Node.js` `Express.js` `Java` `Spring Boot` `REST API`
 
-### Database
-`MySQL` `SQL` `MongoDB`
+### Databases
+`SQL` `MySQL` `MongoDB`
 
-### Programming
-`Python` `Java` `JavaScript`
-
-### Tools & Concepts
-`Git` `GitHub` `OOP` `Agile` `MS Excel` `AI/ML`
+### Programming & Tools
+`Python` `Java` `Git` `GitHub` `OOP` `Agile` `AI/ML`
 
 ---
 
-## 🚀 Featured Project
+## 🌟 Featured Project
 
-### 🎓 College Admissions Portal
+### 🎓 College Admissions — EduAdmit
 
-A responsive front-end college admissions portal built with **HTML, CSS, and JavaScript**, featuring a dashboard-style interface, application management UI, college information cards, forms, search, status badges, modals, notifications, and responsive styling.
+A responsive college-admissions portal built as a frontend web application. It demonstrates practical **HTML, CSS and JavaScript** skills through a dashboard-style interface, application management UI, forms, college cards, search, status badges, modals and notifications.
 
-🔗 **[View Project →](https://github.com/faisalshaik78/college-admissions)**
+**Tech:** `HTML` `CSS` `JavaScript`
 
-> Future development: Node.js + Express.js backend, MongoDB database, authentication, REST APIs, and deployment.
+👉 **[View Project →](https://github.com/faisalshaik78/college-admissions)**
+
+### 🔭 Full-Stack Roadmap
+
+My next development focus is to extend frontend projects with:
+
+`React` → `Node.js` → `Express.js` → `MongoDB` → `REST API`
 
 ---
 
-## 💼 Internship
+## 💼 Experience
 
 **Python Web Developer Intern — Data Info Solutions**
 
-Gained practical exposure to Python-based development, application testing/debugging, web development workflows, and version control.
+Gained practical exposure to Python-based development, application testing/debugging, web-development workflows and version control.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering – Computer Science & Engineering (AI & ML)**  
-Lords Institute of Engineering & Technology, Hyderabad | **2021–2025**
-
-**Intermediate – MPC**  
-Krishnaveni Junior College | **2020–2021**
-
-**SSC (Class X)**  
-Ehashila High School | **2019**
+**B.E. — Computer Science & Engineering (AI & ML)**  
+Lords Institute of Engineering & Technology, Hyderabad · **2021–2025**
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
 I’m looking for an opportunity to contribute to real-world software projects, learn from experienced developers, and grow into a strong **Full Stack Software Engineer**.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/shaikfaisal)
-- 🐙 [GitHub](https://github.com/faisalshaik78)
+💼 **LinkedIn:** [Shaik Faisal](https://linkedin.com/in/shaikfaisal)  
+🐙 **GitHub:** [@faisalshaik78](https://github.com/faisalshaik78)
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+*Always learning. Always building. Always improving.* 🚀
