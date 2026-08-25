@@ -40,7 +40,7 @@ I’m a Computer Science graduate interested in building **clean, responsive and
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Projects
 
 ### 🎓 College Admissions — EduAdmit
 
@@ -50,7 +50,29 @@ A responsive college-admissions portal built as a frontend web application. It d
 
 👉 **[View Project →](https://github.com/faisalshaik78/college-admissions)**
 
-### 🔭 Full-Stack Roadmap
+### 📚 Student Result Management System
+
+A web-based application designed to record, calculate and publish student results while reducing manual result-processing work.
+
+**Technologies listed:** `Python` `MySQL` `HTML` `CSS`
+
+**Highlights:** Backend logic, structured database handling and a web interface for student-result management.
+
+> 📌 The project is listed here based on my resume. The source code is not currently available in my GitHub repositories.
+
+### 🤖 AI-Based Chatbot Application
+
+A chatbot application designed to automate responses to common user queries and improve response turnaround for end users.
+
+**Technologies listed:** `Java` `Spring Boot` `REST API`
+
+**Highlights:** Object-oriented programming, Spring Boot backend development and REST API usage.
+
+> 📌 The project is listed here based on my resume. The source code is not currently available in my GitHub repositories.
+
+---
+
+## 🔭 Full-Stack Roadmap
 
 My next development focus is to extend frontend projects with:
 
