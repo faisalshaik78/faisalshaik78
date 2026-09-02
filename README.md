@@ -1,105 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm **SHAIK FAISAL**
+# 👋 Hi, I'm SHAIK FAISAL
 
-### 💻 Software Developer | Frontend Developer | MERN Full Stack Developer
+### Full Stack Developer | MERN Stack | Python
 
-**CSE (AI & ML) Graduate • Building responsive, practical web applications**
+I build responsive web applications and practical software solutions using modern frontend and backend technologies.
 
 <p>
   <a href="https://github.com/faisalshaik78">GitHub</a> •
   <a href="https://linkedin.com/in/shaik-faisal-0176b9228">LinkedIn</a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=faisalshaik78&style=flat-square&color=blue" alt="Profile views" />
+
 </div>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 B.E. in **Computer Science & Engineering (AI & ML)** — 2021–2025
-- 💼 **Python Web Developer Intern** at Data Info Solutions
-- 🚀 Focused on **Frontend & Full Stack Web Development**
-- 🌐 Building with **HTML, CSS, JavaScript and React.js**
-- ⚙️ Developing backend skills with **Node.js, Express.js, Java and Spring Boot**
-- 🗄️ Working with **MongoDB, MySQL and SQL**
-- 🤖 Interested in **AI/ML and real-world software applications**
-- 🔧 Git, GitHub and Postman
-- 🎯 Looking for **Software Developer / Full Stack Developer** opportunities
-
----
-
-## ⚡ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend technologies" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend technologies" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
-</p>
-
-**Also:** `Python` `SQL` `REST API` `OOP` `CRUD` `Authentication` `Routing` `Agile`
+- 🎓 B.E. in **Computer Science & Engineering (AI & ML)**, Lords Institute of Engineering & Technology
+- 💻 Focused on **Full Stack Web Development and MERN Stack**
+- 🌐 Frontend: **HTML, CSS, JavaScript, React.js**
+- ⚙️ Backend: **Node.js, Express.js, Java, Spring Boot, Python**
+- 🗄️ Databases: **MongoDB, MySQL, SQL**
+- 🧰 Tools: **Git, GitHub, VS Code, Postman**
+- 🤖 Interested in **AI/ML and real-world applications**
+- 🎯 Open to **Software Developer, Full Stack Developer and Junior Developer** opportunities
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🎓 College Admissions — EduAdmit
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend stack" />
+</p>
 
-A responsive college-admissions portal built with **HTML, CSS and JavaScript**, featuring a dashboard-style interface, application workflows, forms, college cards, search, status badges, modals and notifications.
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" alt="Backend stack" />
+</p>
+
+### Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Database and tools" />
+</p>
+
+**Additional:** `REST APIs` `CRUD` `Authentication` `Routing` `OOP` `SQL` `Agile`
+
+---
+
+## ⭐ Featured Project
+
+### 🎓 EduAdmit — College Admissions Portal
+
+A responsive college-admissions web application designed to simplify the student application experience.
+
+**Highlights**
+- 📋 Application workflow and forms
+- 🔎 College search and college cards
+- 📊 Dashboard-style interface
+- 🏷️ Application status badges
+- 🔔 Notifications and modals
+- 📱 Responsive UI
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
-👉 **[View Repository](https://github.com/faisalshaik78/college-admissions)**
+👉 **[View EduAdmit Repository](https://github.com/faisalshaik78/college-admissions)**
+
+---
+
+## 💡 Other Projects
 
 ### 💰 Ledger — Personal Finance Tracker
 
-A personal finance tracker designed to organize income and expenses with categorization, charts and browser-based persistence.
+A React-based application for managing income and expenses with categories, charts and browser-based persistence.
 
 **Tech:** `React` `Vite` `Tailwind CSS` `JavaScript` `localStorage`
 
-> 📌 Resume-listed project; source code is not currently available in my GitHub repositories.
-
 ### 📚 Student Result Management System
 
-A web application designed to record, calculate and publish student results while reducing manual processing.
+A web application for recording, calculating and publishing student results while reducing manual work.
 
 **Tech:** `Python` `MySQL` `HTML` `CSS`
 
-> 📌 Resume-listed project; source code is not currently available in my GitHub repositories.
-
 ### 🤖 AI-Based Chatbot Application
 
-A chatbot application designed to automate responses to common user queries.
+A chatbot application designed to automate responses to common user queries through a REST-based backend.
 
 **Tech:** `Java` `Spring Boot` `REST API`
-
-> 📌 Resume-listed project; source code is not currently available in my GitHub repositories.
 
 ---
 
 ## 📚 MERN Full Stack Training
 
-### Full Stack Academy · March 2026 – August 2026
+**Full Stack Academy · March 2026 – August 2026**
 
-Completed intensive training in:
+Hands-on training in:
 
 `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `CRUD` `Authentication` `Routing` `Git/GitHub` `Postman`
 
@@ -109,10 +107,10 @@ Completed intensive training in:
 
 ### Python Web Developer Intern — Data Info Solutions
 
-- Worked on Python-based development tasks
-- Designed, tested and debugged applications
-- Gained practical exposure to web-development workflows and version control
-- Collaborated with developers to deliver functional modules
+- Worked on Python-based development tasks and application modules
+- Practiced debugging, testing and problem solving
+- Gained experience with web-development workflows and version control
+- Collaborated on functional development tasks
 
 ---
 
@@ -123,7 +121,7 @@ Lords Institute of Engineering & Technology, Hyderabad · **2021–2025**
 
 ---
 
-## 📊 GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -134,20 +132,26 @@ Lords Institute of Engineering & Technology, Hyderabad · **2021–2025**
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Current Focus
 
-> **Build. Learn. Improve. Repeat.**
-
-I’m looking for an opportunity to contribute to real-world software projects, learn from experienced developers, and grow into a strong **Full Stack Software Engineer**.
+```text
+Building full-stack projects
+Improving React + Node.js skills
+Practicing DSA and technical interviews
+Learning backend architecture and APIs
+Creating job-ready GitHub projects
+```
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-**💼 [LinkedIn](https://linkedin.com/in/shaik-faisal-0176b9228) · 🐙 [GitHub](https://github.com/faisalshaik78)**
+💼 **[LinkedIn](https://linkedin.com/in/shaik-faisal-0176b9228)**  •  🐙 **[GitHub](https://github.com/faisalshaik78)**
 
-⭐ *Thanks for visiting my profile!*
+### Build • Learn • Improve • Repeat 🚀
+
+⭐ Thanks for visiting my profile!
 
 </div>
