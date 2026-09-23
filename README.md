@@ -51,7 +51,24 @@ I build responsive web applications and practical software solutions using moder
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
+
+### 🍕 Pizza Delivery Web Application
+
+A full-stack pizza ordering application with separate customer and admin workflows. The project includes pizza customization, authentication, order tracking, inventory management and a demo checkout flow.
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Axios`
+
+**Highlights**
+- Customer registration and login
+- Step-by-step pizza builder
+- Order summary and order history
+- Admin inventory and order management
+- Low-stock email notifications
+- Protected routes and API-based communication
+- Demo payment flow for local development
+
+👉 **[View Pizza Delivery Repository](https://github.com/faisalshaik78/OIBSIP-)**
 
 ### 🎓 EduAdmit — College Admissions Portal
 
