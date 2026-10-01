@@ -19,20 +19,41 @@ I build practical web applications with a focus on clean UI, backend APIs, authe
 - 🌐 Frontend: **HTML, CSS, JavaScript, React.js**
 - ⚙️ Backend: **Node.js, Express.js, Java, Spring Boot, Python**
 - 🗄️ Databases: **MongoDB, MySQL, SQL**
-- 🧰 Tools: **Git, GitHub, VS Code, Postman**
 - 🤖 Interested in applying **AI/ML concepts to practical software projects**
 
-## Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages:** Python • Java • JavaScript • C++ • SQL
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Python Java C++ JavaScript" />
+</p>
 
-**Frontend:** HTML5 • CSS3 • React.js • Bootstrap
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="HTML CSS React Bootstrap" />
+</p>
 
-**Backend:** Node.js • Express.js • Spring Boot • REST APIs
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js Express Spring Boot" />
+</p>
 
-**Database:** MongoDB • MySQL
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB MySQL" />
+</p>
 
-**Tools:** Git • GitHub • VS Code • Postman
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git GitHub VS Code Postman" />
+</p>
+
+### Other Skills
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+</p>
+
+**Also familiar with:** SQL • REST APIs • CRUD • Authentication • OOP • Git/GitHub
 
 ## Featured Projects
 
