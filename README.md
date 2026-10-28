@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm SHAIK FAISAL
+# Hi, I'm Shaik Faisal
 
-### Full Stack Developer | MERN Stack | Python
+### Aspiring Full Stack Developer | React.js | JavaScript | Node.js | Python
 
-I build practical web applications with a focus on clean UI, backend APIs, authentication, and database-driven features.
+I build practical web applications and enjoy turning ideas into clean, user-friendly software.
 
-[LinkedIn](https://linkedin.com/in/shaik-faisal-0176b9228) • [GitHub](https://github.com/faisalshaik78)
+[LinkedIn](https://www.linkedin.com/in/shaik-faisal-0176b9228) • [GitHub](https://github.com/faisalshaik78)
 
 </div>
 
@@ -14,77 +14,45 @@ I build practical web applications with a focus on clean UI, backend APIs, authe
 
 ## About Me
 
-- 🎓 B.E. in **Computer Science & Engineering (AI & ML)** from Lords Institute of Engineering & Technology
-- 💻 Interested in **Full Stack Development, Software Development, and Backend Development**
-- 🌐 Frontend: **HTML, CSS, JavaScript, React.js**
-- ⚙️ Backend: **Node.js, Express.js, Java, Spring Boot, Python**
-- 🗄️ Databases: **MongoDB, MySQL, SQL**
-- 🤖 Interested in applying **AI/ML concepts to practical software projects**
+- 🎓 B.E. in Computer Science & Engineering (AI & ML), Lords Institute of Engineering & Technology
+- 💻 Interested in frontend, full-stack, and backend development
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js
+- ⚙️ **Backend:** Node.js, Express.js, Java, Spring Boot, Python
+- 🗄️ **Databases:** MongoDB, MySQL, SQL
+- 🧰 **Tools:** Git, GitHub, VS Code, Postman
+- 🚀 Focused on building projects, strengthening fundamentals, and improving through hands-on practice
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Python Java C++ JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,postman" alt="Python, Java, C++, JavaScript, HTML, CSS, React, Node.js, Express, Spring, MongoDB, MySQL, Git, GitHub, VS Code and Postman" />
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="HTML CSS React Bootstrap" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js Express Spring Boot" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB MySQL" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git GitHub VS Code Postman" />
-</p>
-
-### Other Skills
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-</p>
-
-**Also familiar with:** SQL • REST APIs • CRUD • Authentication • OOP • Git/GitHub
+**Also familiar with:** REST APIs, CRUD operations, authentication, OOP, and responsive web design.
 
 ## Featured Projects
+
+### 🛍️ VoltStore — E-Commerce Product Page
+
+Responsive product page for wireless headphones, featuring product selection, a gallery, and interactive cart controls.
+
+**Tech:** HTML, CSS, JavaScript
+
+[View repository](https://github.com/faisalshaik78/saiket-voltstore-ecommerce)
 
 ### 🍕 Pizza Delivery Web Application
 
 Full-stack pizza ordering application with customer and admin workflows.
 
-**Highlights**
-- Registration and login
-- Pizza customization and order summary
-- Order history and status tracking
-- Admin inventory and order management
-- Low-stock email notifications
-- Protected routes and API communication
-- Demo checkout flow
+**Highlights:** Registration and login, product customization, order summary, order tracking, and admin order management.
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Axios
+**Tech:** React.js, Node.js, Express.js, MongoDB
 
 [View repository](https://github.com/faisalshaik78/OIBSIP-)
 
 ### 🎓 EduAdmit — College Admissions Portal
 
-Responsive frontend application for exploring colleges and managing an admission-style application workflow.
-
-**Highlights**
-- College search and information cards
-- Application forms
-- Dashboard-style interface
-- Application status badges
-- Modals and notifications
-- Responsive design
+Responsive college admissions-style application with college information, application forms, and a dashboard interface.
 
 **Tech:** HTML, CSS, JavaScript
 
@@ -92,48 +60,47 @@ Responsive frontend application for exploring colleges and managing an admission
 
 ### 🔐 Login & Registration System
 
-Authentication-focused web application demonstrating registration, login, sessions, password hashing, protected routes, and logout.
+Web application demonstrating user registration, login, session handling, password hashing, and protected routes.
 
-**Tech:** Node.js, Express.js, express-session, bcrypt, HTML, CSS, JavaScript
+**Tech:** Node.js, Express.js, HTML, CSS, JavaScript
 
 [View repository](https://github.com/faisalshaik78/login-register)
 
-## Other Projects
+### ✅ To-Do Application
 
-- **Ledger** — React-based personal finance tracker using Vite, Tailwind CSS and localStorage.
-- **Student Result Management System** — Python/MySQL application for managing and calculating student results.
-- **AI Chatbot** — Java/Spring Boot REST-based chatbot application.
+Task manager with task editing, completion status, timestamps, and browser storage.
 
-## Experience
+**Tech:** HTML, CSS, JavaScript
 
-### Python Web Developer Intern — Data Info Solutions
+[View repository](https://github.com/faisalshaik78/todo-app)
 
-- Worked on Python-based development tasks and application modules.
-- Practiced data handling, debugging, testing, and problem solving.
-- Gained experience with web-development workflows and version control.
-- Worked with datasets and data-cleaning tasks during development activities.
+## Experience & Training
 
-## MERN Full Stack Training
+### Python Developer Internship — Data Info Solutions
 
-**Full Stack Academy · March 2026 – August 2026**
+- Practised Python-based development tasks and application debugging.
+- Worked with data handling and data-cleaning tasks.
+- Gained exposure to development workflows and version control.
 
-Hands-on practice with MongoDB, Express.js, React.js, Node.js, REST APIs, CRUD operations, authentication, routing, Git/GitHub, and Postman.
+### MERN Full Stack Training — Full Stack Academy
+
+Hands-on practice with MongoDB, Express.js, React.js, Node.js, REST APIs, CRUD operations, authentication, Git/GitHub, and Postman.
 
 ## Education
 
 **B.E. — Computer Science & Engineering (AI & ML)**  
-Lords Institute of Engineering & Technology, Hyderabad · **2021–2025**
+Lords Institute of Engineering & Technology, Hyderabad · 2021–2025
 
 ## Current Focus
 
-- Building full-stack projects
-- Improving React and Node.js skills
-- Practicing DSA and technical interviews
-- Learning backend architecture and APIs
-- Maintaining clean, documented GitHub projects
+- Improving React.js and JavaScript fundamentals
+- Building and documenting full-stack projects
+- Practising data structures, algorithms, and technical interviews
+- Strengthening backend API and database skills
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/shaik-faisal-0176b9228) • [GitHub](https://github.com/faisalshaik78)
+- LinkedIn: [shaik-faisal-0176b9228](https://www.linkedin.com/in/shaik-faisal-0176b9228)
+- GitHub: [faisalshaik78](https://github.com/faisalshaik78)
 
 Thanks for visiting my profile!
