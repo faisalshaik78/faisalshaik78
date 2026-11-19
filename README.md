@@ -46,21 +46,6 @@
 - **Python Developer Internship — Data Info Solutions:** Worked on Python-based development tasks, data handling, data cleaning, and debugging.
 - **MERN Full Stack Training — Full Stack Academy:** Practised MongoDB, Express.js, React.js, Node.js, REST APIs, CRUD operations, and Git/GitHub.
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faisalshaik78&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalshaik78&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=faisalshaik78&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalshaik78&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</div>
-
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Shaik Faisal](https://www.linkedin.com/in/shaik-faisal-0176b9228)
